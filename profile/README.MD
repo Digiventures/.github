@@ -1,6 +1,6 @@
 
 <h1>
-  hey there, we are digiventures
+  hey there, we are Digiventures!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
